@@ -1,0 +1,73 @@
+body {
+	margin:0;
+	padding:0
+}
+
+
+.googleresmi {
+    text-align: center;
+}
+.greybox {
+    width: 90%;
+    height: auto;
+    background-color: #EEEEEE;
+}
+.greybox {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greybox a {
+    text-decoration: none;
+}
+
+.uckutu {
+    width: 90%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+}
+.yesilkutu {
+    width: 35%;
+    height: auto;
+    background-color: #7EE5DA;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    float: left;
+    margin-right: 2px;
+
+
+}
+.ortayesil {
+    text-align: center;
+    font-size: 13px;
+    background-color: #70CCC2;
+    width: 22%; 
+    float: left;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    margin-right: 1px;
+}
+.sonyesil {
+background-color: #62B3AA;
+width: 42.7%;
+text-align: center;
+font-size: 13px;
+float: left;
+margin-right: none;
+display: block;
+padding-bottom: 1.4px;
+
+}
+
+p {
+    text-align: center;
+    font-size: 13px;
+    margin-top: -2px;
+}
+.sonkutudugme {
+    margin-right: 10px;
+}
